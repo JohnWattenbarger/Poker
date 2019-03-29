@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 //using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace Practice_C_Sharp.src_test
+namespace Poker.src_test
 {
     //[TestClass]
     class TestCard

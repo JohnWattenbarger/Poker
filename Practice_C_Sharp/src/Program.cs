@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Practice_C_Sharp
+namespace Poker
 {
     class Program
     {

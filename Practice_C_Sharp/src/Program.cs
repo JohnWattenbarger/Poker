@@ -15,6 +15,9 @@ namespace Poker
             Console.Clear();
             game.StartGame();
 
+            // test
+            Console.WriteLine("Test");
+
             Program.Pause();
         }
 

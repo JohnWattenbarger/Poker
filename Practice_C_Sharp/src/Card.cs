@@ -12,6 +12,7 @@ namespace Poker
         public int number;
         public String name;
 
+        // comment
 
         public Card(Suite s, int n)
         {

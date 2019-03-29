@@ -14,10 +14,7 @@ namespace Poker
             Game game = new Game(getNumberOfPlayers());
             Console.Clear();
             game.StartGame();
-
-            // test
-            Console.WriteLine("Test");
-
+            
             Program.Pause();
         }
 

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Poker
 {
-    class Card
+    public class Card
     {
         public Suite suite;
         public int number;
@@ -51,7 +51,7 @@ namespace Poker
     }
     
 
-    enum Suite
+    public enum Suite
     {
         Hearts,
         Diamonds,

@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27004.2002
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Poker", "Practice_C_Sharp\Poker.csproj", "{1CF1EC86-DBD1-424A-AEE9-DCC8046D9D15}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokerTests", "PokerTests\PokerTests.csproj", "{8F0C8EF3-245E-46CB-AF3C-97E55DFADB5B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{1CF1EC86-DBD1-424A-AEE9-DCC8046D9D15}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1CF1EC86-DBD1-424A-AEE9-DCC8046D9D15}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1CF1EC86-DBD1-424A-AEE9-DCC8046D9D15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F0C8EF3-245E-46CB-AF3C-97E55DFADB5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F0C8EF3-245E-46CB-AF3C-97E55DFADB5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F0C8EF3-245E-46CB-AF3C-97E55DFADB5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F0C8EF3-245E-46CB-AF3C-97E55DFADB5B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
